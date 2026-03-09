@@ -171,7 +171,7 @@ export default function HistoryTimeline() {
       {/* Timeline */}
       <div ref={containerRef} className="relative max-w-6xl mx-auto px-6">
         {/* Center vertical line (desktop) */}
-        <div className="hidden md:block absolute left-1/2 -translate-x-1/2 top-0 bottom-0 w-px bg-border">
+        <div className="hidden md:block absolute left-1/2 -translate-x-1/2 top-0 h-full w-px bg-border">
           <motion.div
             className="w-full bg-gradient-to-b from-accent-gold to-accent-red"
             style={{ height: lineHeight }}
