@@ -286,14 +286,14 @@ export default function Home() {
         <div className="section-inner">
           <div className="reveal">
             <div className="section-label">Bản chất Dân chủ XHCN</div>
-            <h2 className="section-title">3 Phương diện Bản chất</h2>
+            <h2 className="section-title">Phương diện Bản chất</h2>
             <p className="section-subtitle">Dân chủ XHCN là nền dân chủ mà mọi quyền lực thuộc về nhân dân, được thực hiện thông qua Nhà nước pháp quyền XHCN dưới sự lãnh đạo của Đảng Cộng sản.</p>
             <div className="section-divider"></div>
           </div>
           <div className="pillars-grid">
-            <div className="pillar-card reveal"><div className="pillar-number">01</div><h3>Bản chất Chính trị</h3><p>Mang bản chất của giai cấp công nhân, có tính nhân dân rộng rãi và tính dân tộc sâu sắc. Thực hiện cơ chế nhất nguyên chính trị, do Đảng Cộng sản lãnh đạo. Nhân dân là chủ thể quyền lực nhà nước, tham gia vào quản lý nhà nước.</p></div>
-            <div className="pillar-card reveal"><div className="pillar-number">02</div><h3>Bản chất Kinh tế</h3><p>Dựa trên chế độ sở hữu xã hội (công hữu) về các tư liệu sản xuất chủ yếu. Nhân dân là chủ thể phát triển lực lượng sản xuất và là người thụ hưởng lợi ích kinh tế.</p></div>
-            <div className="pillar-card reveal"><div className="pillar-number">03</div><h3>Bản chất Tư tưởng - Văn hóa - Xã hội</h3><p>Lấy chủ nghĩa Mác - Lênin làm hệ tư tưởng chủ đạo. Thực hiện giải phóng con người triệt để, phát triển toàn diện cá nhân và thực hiện quyền tự do, bình đẳng.</p></div>
+            <div className="pillar-card reveal"><h3>Bản chất Chính trị</h3><p>Mang bản chất của giai cấp công nhân, có tính nhân dân rộng rãi và tính dân tộc sâu sắc. Thực hiện cơ chế nhất nguyên chính trị, do Đảng Cộng sản lãnh đạo. Nhân dân là chủ thể quyền lực nhà nước, tham gia vào quản lý nhà nước.</p></div>
+            <div className="pillar-card reveal"><h3>Bản chất Kinh tế</h3><p>Dựa trên chế độ sở hữu xã hội (công hữu) về các tư liệu sản xuất chủ yếu. Nhân dân là chủ thể phát triển lực lượng sản xuất và là người thụ hưởng lợi ích kinh tế.</p></div>
+            <div className="pillar-card reveal"><h3>Bản chất Tư tưởng - Văn hóa - Xã hội</h3><p>Lấy chủ nghĩa Mác - Lênin làm hệ tư tưởng chủ đạo. Thực hiện giải phóng con người triệt để, phát triển toàn diện cá nhân và thực hiện quyền tự do, bình đẳng.</p></div>
           </div>
         </div>
       </section>
